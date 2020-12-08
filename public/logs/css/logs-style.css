@@ -1,0 +1,39 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.options:hover {
+    cursor: pointer;
+}
+
+.modal-dialog {
+    margin-top: 15% !important;
+}
+
+#modal-dialog {
+    max-width: 40% !important;
+}
+.modal-content {
+    width: 100%;
+}
+#image-upload-controls{
+    width: 40%;
+}
+.modal-image-and-button, .prof-pic {
+    text-align: center;
+}
+.prof-pic {
+    width: 100%;
+}
+
+
+
